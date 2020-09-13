@@ -1,0 +1,24 @@
+.intro {
+    text-align: center;
+    font-size: larger;
+    position: relative;
+    min-height: 100vh;
+}
+.content-wrap {
+    padding-bottom: 2.5rem;
+}
+.footer {
+    position: relative;
+    bottom: auto;
+    width: 100%;
+    height: 2.5rem;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.titleHeader {
+    text-align: center;
+    font-size: x-large;
+}
