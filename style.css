@@ -47,3 +47,9 @@ weatherAPI {
     margin: 4px 2px;
     cursor: pointer;
 }
+
+.easy {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
