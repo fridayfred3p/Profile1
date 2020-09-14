@@ -49,4 +49,5 @@ SOFTWARE.
 
 ## Contact Info
 
-Email: [fridayfred3p@gmail.com](fridayfred3p@gmail.com)
+Email: fridayfred3p@gmail.com
+Github: [Github](https://github.com/fridayfred3p)
